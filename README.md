@@ -1,24 +1,24 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Kevin Nalli</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinspinell&label=Profile%20views&color=0e75b6&style=flat" alt="kevinspinell" /> </p>
+<img align='left' margin="8px" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinspinell" alt="kevinspinell" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+<p align="center">- 🌱 I’m currently learning Frameworks</p>
+<p align="center">______________________________________</p>
+<p align="center">- 💬 Ask me about Astro, Vue, Angular</p>
+<p align="center">______________________________________</p>
+<p align="center">- 📫 How to reach me kevinnallicarrascal@garcia</p>
 
-- 💬 Ask me about **Astro, Vue, Angular**
 
-- 📫 How to reach me **kevinnallicarrascal@garcia**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
